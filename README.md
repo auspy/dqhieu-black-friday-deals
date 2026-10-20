@@ -59,6 +59,7 @@ Please follow the rules below:
 | 🤑 | [PromptKit – Master AI](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF** Annual Subscription, Nov 23 – Dec 2](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 | 🤑 | [ScreenSnap Pro](https://www.screensnap.pro/) Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| **50% OFF** Lifetime and Subscription **EZNZQWNW** |
 | 🤑 | [Startup Buffer](https://startupbuffer.com) | A startup directory and launch platform that helps founders promote their products to thousands of potential users and investors. | **50% OFF** with code **BF50**, Nov 25 - Dec 7, 2025 |
+| 🤑 | [SupaSidebar](https://www.supasidebar.com/?utm_source=dqhieu-github&utm_campaign=bf2026) | Arc-like sidebar for every Mac browser. See every open tab from Safari, Chrome, Brave, Firefox and more in one list, also fuzzy search tabs, bookmarks and even files with one shortcut. | **70% OFF** Lifetime, $29.70 (was $99), one-time purchase, with code **SIDEBARBF70** for the first 100 buyers (Nov 9 - Dec 7) |
 
 ---
 
